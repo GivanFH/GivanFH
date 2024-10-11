@@ -9,97 +9,71 @@ I'm a passionate fullstack developer who loves building modern web applications 
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
-        <br>PHP
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-        <br>React
       </td>
        <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-        <br>Node.js
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-        <br>Express
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="48" height="48" alt="Tailwind" />
-        <br>Tailwind CSS
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
       </td>
        <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer"/>
-        <br>Composer
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-        <br>git
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="postman"/>
-        <br>Postman
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="vite"/>
-        <br>Vite
       </td>
     </tr>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-        <br>MySQL
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
-        <br>npm
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-        <br>HTML
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-        <br>CSS
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="SASS" />
-        <br>SASS
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="48" height="48" alt="Sequelize" />
-        <br>Sequelize
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
-        <br>Swagger
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="48" height="48" alt="SQL" />
-        <br>SQL
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="48" height="48" alt="gulp" />
-        <br>gulp
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="48" height="48" alt="mongoose" />
-        <br>mongoose
       </td>
     </tr>
   </table>
