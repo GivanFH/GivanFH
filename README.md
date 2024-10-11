@@ -23,7 +23,7 @@ I'm a passionate fullstack developer who loves building modern web applications 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="48" height="48" alt="Express" />
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"  width="48" height="48" alt="Tailwind" />
@@ -78,6 +78,7 @@ I'm a passionate fullstack developer who loves building modern web applications 
     </tr>
   </table>
 </div>
+
 
 ## 📊 GitHub Stats
 ![GivanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GivanFH&show_icons=true&theme=radical)
