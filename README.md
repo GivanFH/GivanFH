@@ -32,7 +32,7 @@ I'm a passionate fullstack developer who loves building modern web applications 
         <br>Express
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="48" height="48" alt="Tailwind" />
         <br>Tailwind CSS
       </td>
       <td align="center" width="100">
