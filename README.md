@@ -1,8 +1,8 @@
-# ¡Hola, soy GivanFH! 👋
+# Hi there, I'm GivanFH! 👋
 
-Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
+I'm a passionate fullstack developer who loves building modern web applications with **React.js** and **Node.js**. I enjoy learning new technologies and pushing my limits to create amazing digital experiences.
 
-## 🔧 Tecnologías y Herramientas
+## 🔧 Technologies & Tools
 
 <div align="center">
   <table>
@@ -74,15 +74,21 @@ Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
         <br>Swagger
       </td>
     </tr>
-    <!-- Agrega más filas de la misma manera -->
   </table>
 </div>
 
-## 📊 Estadísticas de GitHub
-![GIvanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GivanFH&show_icons=true&theme=radical)
-
-## 🌱 Actualmente aprendiendo
-- [Tecnología que estás aprendiendo]
+## 📊 GitHub Stats
+![GivanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GivanFH&show_icons=true&theme=radical)
 
 ---
-¡Gracias por visitar mi perfil! 😊
+
+## 📫 Contact Me
+
+If you'd like to get in touch or see more of my work, feel free to connect with me via the following:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-iv%C3%A1n-flores-hernandez-42074726a/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-portfolio-link.com)
+
+---
+
+Thanks for stopping by! 😊 Feel free to explore my projects and connect with me!
