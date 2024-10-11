@@ -41,13 +41,17 @@ Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <br>MySQL
+      </td>
     </tr>
     <!-- Agrega más filas de la misma manera -->
   </table>
 </div>
 
 ## 📊 Estadísticas de GitHub
-![TuNombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TuNombre&show_icons=true&theme=radical)
+![GIvanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GIvan&show_icons=true&theme=radical)
 
 ## 🌱 Actualmente aprendiendo
 - [Tecnología que estás aprendiendo]
