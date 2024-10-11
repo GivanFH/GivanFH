@@ -39,6 +39,22 @@ I'm a passionate fullstack developer who loves building modern web applications 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
+       <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="48" height="48" alt="Composer"/>
+        <br>Composer
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+        <br>git
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48" alt="postman"/>
+        <br>Postman
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="vite"/>
+        <br>Vite
+      </td>
     </tr>
     <tr>
       <td align="center" width="100">
@@ -72,6 +88,18 @@ I'm a passionate fullstack developer who loves building modern web applications 
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="48" height="48" alt="Swagger" />
         <br>Swagger
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"  width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="48" height="48" alt="gulp" />
+        <br>gulp
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="48" height="48" alt="mongoose" />
+        <br>mongoose
       </td>
     </tr>
   </table>
