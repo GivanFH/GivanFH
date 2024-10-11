@@ -23,9 +23,7 @@ Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
         <br>React
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
@@ -34,13 +32,15 @@ Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
         <br>Express
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" />
         <br>Tailwind CSS
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
         <br>Bootstrap
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
         <br>MySQL
@@ -79,7 +79,7 @@ Soy un desarrollador fullstack y me encanta trabajar con React.js y Node,js.
 </div>
 
 ## 📊 Estadísticas de GitHub
-![GIvanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Givan&show_icons=true&theme=radical)
+![GIvanFH's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GivanFH&show_icons=true&theme=radical)
 
 ## 🌱 Actualmente aprendiendo
 - [Tecnología que estás aprendiendo]
