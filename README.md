@@ -4,6 +4,19 @@ I'm a passionate fullstack developer who loves building modern web applications 
 
 ## 🔧 Technologies & Tools
 
+<style>
+
+table {
+  border: none;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: none;
+}
+
+</style>
+
 <div align="center">
   <table>
     <tr>
