@@ -41,7 +41,7 @@ I'm a passionate fullstack developer who loves building modern web applications 
 If you'd like to get in touch or see more of my work, feel free to connect with me via the following:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-iv%C3%A1n-flores-hernandez-42074726a/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://givanfh.github.io/potterfh.github.io/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://my-portolio-givanfh.vercel.app/)
 
 ---
 
