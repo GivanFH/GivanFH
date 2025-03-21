@@ -34,4 +34,7 @@
 
 ---
 
-Thanks for stopping by! 😊 Feel free to explore my projects and connect with me!
+<div align="center">
+  <p>Thanks for stopping by! 😊 Feel free to explore my projects and connect with me!</p>
+</div>
+
