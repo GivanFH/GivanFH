@@ -12,16 +12,8 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mysql,mongodb,git,docker" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,nodejs,express,sequelize,mysql,mongodb,git,astro,tailwind,bootstrap,css,sass,figma,github,gulp,html,jquery,materialui,postman,vscode" alt="My Skills" />
   </a>
-</div>
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GivanFH&show_icons=true&theme=radical" alt="GivanFH's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GivanFH&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
