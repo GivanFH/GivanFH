@@ -27,6 +27,9 @@
   <a href="https://my-portolio-givanfh.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
+   <a href="mailto:ivan_2333@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail me" />
+  </a>
 </div>
 
 ---
